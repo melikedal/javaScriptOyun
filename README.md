@@ -12,6 +12,8 @@ HTML5 Canvas ile yapılmış, bulmaca türünde bir 2D oyundur.
 - Hedef şekle ulaşınca seviyeyi tamamla ve diğer seviyeye geç.
 
 ---
+### Oyun Videosu
+https://youtu.be/1R1KVUI2g-M
 
 ## Kaynak Oyun
 
